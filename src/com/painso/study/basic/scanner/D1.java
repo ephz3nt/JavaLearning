@@ -1,4 +1,4 @@
-package com.painso.study.scanner;
+package com.painso.study.basic.scanner;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.painso.study.method;
+package com.painso.study.basic.method;
 
 public class Recursion2 {
     /* 阶乘

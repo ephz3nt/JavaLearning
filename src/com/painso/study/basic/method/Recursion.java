@@ -1,4 +1,4 @@
-package com.painso.study.method;
+package com.painso.study.basic.method;
 
 /**
  * @author ephz3nt

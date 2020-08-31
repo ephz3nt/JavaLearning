@@ -1,4 +1,4 @@
-package com.painso.study.condition;
+package com.painso.study.basic.condition;
 
 public class D2 {
     public static void main(String[] args) {

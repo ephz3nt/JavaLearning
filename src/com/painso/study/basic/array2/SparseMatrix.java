@@ -1,4 +1,4 @@
-package com.painso.study.array2;
+package com.painso.study.basic.array2;
 
 /**
  * @author ephz3nt

@@ -1,4 +1,4 @@
-package com.painso.study.array2;
+package com.painso.study.basic.array2;
 
 import java.util.Arrays;
 
@@ -54,6 +54,9 @@ public class BubbleSort {
         for (int i = 0; i < s1.length; i++) {
             System.out.printf("%d\t",s1[i]);
         }
+
+        int[] s =  {9,7,5,3,1};
+
     }
 
 }

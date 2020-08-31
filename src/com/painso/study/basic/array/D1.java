@@ -1,4 +1,4 @@
-package com.painso.study.array;
+package com.painso.study.basic.array;
 
 public class D1 {
     public static void main(String[] args) {

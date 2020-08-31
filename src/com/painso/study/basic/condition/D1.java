@@ -1,4 +1,4 @@
-package com.painso.study.condition;
+package com.painso.study.basic.condition;
 
 /**
  * @author ephz3nt

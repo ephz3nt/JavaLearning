@@ -1,4 +1,4 @@
-package com.painso.study.doc;
+package com.painso.study.basic.doc;
 
 /**
  * @author ephz3nt
