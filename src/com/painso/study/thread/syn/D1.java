@@ -17,21 +17,22 @@ class BuyTicket implements Runnable {
     public void run() {
         // buy
         while(flag){
+            // 模拟延时
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             buy();
         }
     }
-    private void buy(){
+    private synchronized void buy(){
         // 判断是否有票
         if (ticketNums <=0){
             flag=false;
             return;
         }
-        // 模拟延时
-        try {
-            Thread.sleep(100);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+
         // 买票
         System.out.println(Thread.currentThread().getName()+"拿到： "+ticketNums--);
     }
